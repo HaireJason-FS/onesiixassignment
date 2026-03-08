@@ -1,7 +1,7 @@
 # Static Deployment Exercise
 
 **Author:** Jason Haire
-**Course:** Full Sail University — Web Development
+**Course:** Full Sail University — B.S. in Web Development
 **Assignment:** Deploying a Static Website
 
 ## Overview
