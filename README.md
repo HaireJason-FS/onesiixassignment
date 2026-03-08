@@ -18,7 +18,7 @@ The purpose of this assignment was to demonstrate the ability to:
 
 ## Live Site
 
-https://onesiixassignment.vercel.app
+https://one-six-assignment.vercel.app/
 
 ## GitHub Repository
 
